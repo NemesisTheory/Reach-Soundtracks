@@ -21,7 +21,7 @@
 - Tip of the Spear: https://www.youtube.com/watch?v=joO3jyU67TI
 - Fortress: https://www.youtube.com/watch?v=VCizdO4c8aw
 - Nightfall: https://www.youtube.com/watch?v=Jkh-2OLG1yk
-- Winter Contingency: https://www.youtube.com/watch?v=_jhDOPuh5TI
+- Winter Contingency: https://www.youtube.com/watch?v=TM2YqbsEzp0
 - ONI: Sword Base: https://www.youtube.com/watch?v=WNpeHSLbEm0
 - Long Night of Solace: https://www.youtube.com/watch?v=ezTgeoQ55bw
 - Exodus: https://www.youtube.com/watch?v=HY1fEfJ5IYs
