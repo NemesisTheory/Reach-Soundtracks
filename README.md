@@ -20,14 +20,14 @@
 # Music Links
 - Tip of the Spear: https://www.youtube.com/watch?v=joO3jyU67TI
 - Fortress: https://www.youtube.com/watch?v=VCizdO4c8aw
-- Nightfall: https://www.youtube.com/watch?v=Jkh-2OLG1yk
+- Nightfall: https://www.youtube.com/watch?v=YH2GtYaYDh4
 - Winter Contingency: https://www.youtube.com/watch?v=TM2YqbsEzp0
-- ONI: Sword Base: https://www.youtube.com/watch?v=WNpeHSLbEm0
+- ONI: Sword Base: https://www.youtube.com/watch?v=eM8V8B-_PPg
 - Long Night of Solace: https://www.youtube.com/watch?v=ezTgeoQ55bw
 - Exodus: https://www.youtube.com/watch?v=HY1fEfJ5IYs
 - New Alexandria: https://www.youtube.com/watch?v=PUvSSUy5QKk
 - The Package: https://www.youtube.com/watch?v=BGDnjVkk74o
-- Lone Wolf: https://www.youtube.com/watch?v=GnXwhcOClbk
+- Lone Wolf: https://www.youtube.com/watch?v=8q4jWeo5oxA
 - The Pillar of Autumn: https://www.youtube.com/watch?v=NcbM9Pm7yOQ
 - From the Vault: https://www.youtube.com/watch?v=cwtHNBHiod4
 - Ashes: https://www.youtube.com/watch?v=C6eMBvMuZ6A
