@@ -1,5 +1,5 @@
 # Reach Soundtracks ![icon](https://user-images.githubusercontent.com/89642216/139625832-66f246cc-72e2-428d-b552-5d6ad16d156b.png)
- Mindustry mod that replaces music files with Halo: Reach soundtracks, it's pretty epic. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
+ Mindustry mod that replaces music files with Halo: Reach soundtracks. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
  
  # Music List
  - boss1: **Tip of the Spear**
