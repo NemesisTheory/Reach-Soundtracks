@@ -1,4 +1,4 @@
-# Reach Soundtracks ![icon](https://user-images.githubusercontent.com/89642216/139625832-66f246cc-72e2-428d-b552-5d6ad16d156b.png)
+# Reach Soundtracks
  Mindustry mod that replaces music files with Halo: Reach soundtracks. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
  
  # Music List
@@ -51,3 +51,4 @@ List of Reach Soundtracks that *were not* included in this music pack.
 - Ghosts and Glass: https://www.youtube.com/watch?v=isaOrKNHw7g
 - We Remember: https://www.youtube.com/watch?v=7mj4uoPxHYs
 
+![icon](https://user-images.githubusercontent.com/89642216/139625832-66f246cc-72e2-428d-b552-5d6ad16d156b.png)
